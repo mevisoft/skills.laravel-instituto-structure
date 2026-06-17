@@ -1,5 +1,5 @@
 ---
-name: instituto
+name: instituto-laravel-structure
 description: Institute management conventions for Laravel + Inertia + React. Activates when creating domain modules (admissions, maintenances, payments, portals), permissions, navigation, tables, controllers, or React pages for the Metropolitano virtual campus.
 ---
 
